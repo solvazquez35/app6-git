@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>photo</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/pure/</ImageTemplate>
+            <ImageTemplateName>Pure</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Arimo</TemplateFont>
+            <TemplateName>pure</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor1.jpg</url>
+                <title>visor1</title>
+                <filesize>44848</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor2.jpg</url>
+                <title>visor2</title>
+                <filesize>132425</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor3.jpg</url>
+                <title>visor3</title>
+                <filesize>12626</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor4.jpg</url>
+                <title>visor4</title>
+                <filesize>90398</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor5.jpg</url>
+                <title>visor5</title>
+                <filesize>151651</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor6.jpg</url>
+                <title>visor6</title>
+                <filesize>12075</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor7.jpg</url>
+                <title>visor7</title>
+                <filesize>485295</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor8.jpg</url>
+                <title>visor8</title>
+                <filesize>56821</filesize>
+            </Image>
+            <Image>
+                <url>J:/ /DAM/segundoparcial/aplicaciones/app6/imagenes/visor9.jpg</url>
+                <title>visor9</title>
+                <filesize>84032</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
